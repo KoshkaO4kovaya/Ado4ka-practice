@@ -1,0 +1,11 @@
+*{
+  font-family: "Montserrat", sans-serif;
+}
+.bg{
+  background: url(./assets/img/background.png);
+  background-size: cover;
+height: 800px;
+}
+.bold{
+  font-weight: 700;
+}
